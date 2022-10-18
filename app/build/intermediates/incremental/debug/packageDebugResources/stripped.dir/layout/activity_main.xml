@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <com.google.android.material.appbar.MaterialToolbar
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="@color/background">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/moscow"
+            android:textColor="@color/toolbar_name_color"
+            android:textSize="16sp"
+            android:layout_marginEnd="14dp"
+            android:layout_marginStart="16dp"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/toolbar_arrow" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/qr_code"
+            android:layout_marginEnd="16dp"
+            android:layout_gravity="end"/>
+
+    </com.google.android.material.appbar.MaterialToolbar>
+
+    <androidx.coordinatorlayout.widget.CoordinatorLayout
+        android:id="@+id/main_root"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/background">
+
+        <com.google.android.material.appbar.AppBarLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/background"
+            android:theme="@style/ThemeOverlay.MaterialComponents.Dark.ActionBar">
+
+            <com.google.android.material.appbar.CollapsingToolbarLayout
+                android:id="@+id/collapsing_toolbar"
+                android:layout_width="match_parent"
+                android:layout_height="112dp"
+                android:layout_marginVertical="24dp"
+                app:contentScrim="?attr/colorPrimary"
+                app:layout_scrollFlags="scroll|enterAlwaysCollapsed"
+                app:title="Moscow">
+
+                <androidx.recyclerview.widget.RecyclerView
+                    android:id="@+id/image_recycler"
+                    android:layout_width="match_parent"
+                    android:layout_height="112dp"
+                    android:orientation="horizontal"
+                    android:layout_marginBottom="16dp"
+                    android:layout_marginStart="16dp"
+                    app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"/>
+
+            </com.google.android.material.appbar.CollapsingToolbarLayout>
+
+        </com.google.android.material.appbar.AppBarLayout>
+
+        <FrameLayout
+            android:id="@+id/fragment_placeholder"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            app:layout_behavior="@string/appbar_scrolling_view_behavior">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <androidx.recyclerview.widget.RecyclerView
+                    android:id="@+id/sort_recycler"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:layout_marginBottom="16dp"
+                    android:layout_marginStart="16dp"
+                    app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"/>
+
+                <androidx.recyclerview.widget.RecyclerView
+                    android:id="@+id/recycler_main"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"
+                    android:paddingBottom="50dp"
+                    app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"/>
+
+            </LinearLayout>
+
+        </FrameLayout>
+
+
+        <com.google.android.material.bottomnavigation.BottomNavigationView
+            android:id="@+id/bottom_navigation"
+            style="@style/BottomNavigationTheme"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom"
+            app:itemIconTint="@color/bottom_nav_color_item"
+            app:itemTextColor="@color/bottom_nav_color_item"
+            app:menu="@menu/bottom_menu">
+
+        </com.google.android.material.bottomnavigation.BottomNavigationView>
+
+    </androidx.coordinatorlayout.widget.CoordinatorLayout>
+</LinearLayout>

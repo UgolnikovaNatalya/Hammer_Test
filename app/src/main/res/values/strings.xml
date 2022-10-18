@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="menu_bottom">Меню</string>
+    <string name="profile">Профиль</string>
+    <string name="garbage">Корзина</string>
+    <string name="moscow">Москва</string>
+    <string name="spb">Санкт-Петербург</string>
+</resources>

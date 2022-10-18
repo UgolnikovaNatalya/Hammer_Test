@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_marginTop="16dp"
+    android:background="@color/background">
+
+    <ImageView
+        android:id="@+id/image"
+        android:layout_width="135dp"
+        android:layout_height="135dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginBottom="16dp"
+        android:scaleType="centerCrop"
+        android:src="@drawable/ic_baseline_local_pizza_24"
+
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/drink_name"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="22dp"
+        android:layout_marginEnd="16dp"
+        android:ellipsize="end"
+        android:fontFamily="@font/roboto_medium"
+        android:textColor="#222831"
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:maxLines="1"
+
+        app:layout_constraintStart_toEndOf="@+id/image"
+        app:layout_constraintTop_toTopOf="@id/image"
+        tools:text="Name of person" />
+
+    <TextView
+        android:id="@+id/drink_instruction"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="22dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginBottom="6dp"
+        android:ellipsize="end"
+        android:fontFamily="@font/roboto_medium"
+        android:maxLines="3"
+        android:textColor="#AAAAAD"
+        android:textSize="16sp"
+
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/image"
+        app:layout_constraintTop_toBottomOf="@id/drink_name"
+        tools:text="Name of person" />
+
+    <TextView
+        android:id="@+id/drink_state"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="16dp"
+        android:textColor="@color/price_txt_color"
+        android:background="@drawable/text_view_borders"
+        android:gravity="center"
+        android:paddingHorizontal="16dp"
+        android:paddingVertical="8dp"
+        android:textAlignment="center"
+        android:textSize="13sp"
+
+        app:layout_constraintBottom_toBottomOf="@id/image"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+    <com.google.android.material.divider.MaterialDivider
+        android:id="@+id/divider"
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        app:dividerColor="#F3F5F9"
+
+        app:layout_constraintBottom_toBottomOf="parent"/>
+
+
+
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
