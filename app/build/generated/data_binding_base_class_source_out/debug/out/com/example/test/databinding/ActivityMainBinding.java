@@ -6,6 +6,8 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.FrameLayout;
 import android.widget.LinearLayout;
+import android.widget.ProgressBar;
+import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.coordinatorlayout.widget.CoordinatorLayout;
@@ -30,6 +32,9 @@ public final class ActivityMainBinding implements ViewBinding {
   public final CollapsingToolbarLayout collapsingToolbar;
 
   @NonNull
+  public final TextView errorText;
+
+  @NonNull
   public final FrameLayout fragmentPlaceholder;
 
   @NonNull
@@ -39,6 +44,9 @@ public final class ActivityMainBinding implements ViewBinding {
   public final CoordinatorLayout mainRoot;
 
   @NonNull
+  public final ProgressBar progressBar;
+
+  @NonNull
   public final RecyclerView recyclerMain;
 
   @NonNull
@@ -46,15 +54,18 @@ public final class ActivityMainBinding implements ViewBinding {
 
   private ActivityMainBinding(@NonNull LinearLayout rootView,
       @NonNull BottomNavigationView bottomNavigation,
-      @NonNull CollapsingToolbarLayout collapsingToolbar, @NonNull FrameLayout fragmentPlaceholder,
-      @NonNull RecyclerView imageRecycler, @NonNull CoordinatorLayout mainRoot,
+      @NonNull CollapsingToolbarLayout collapsingToolbar, @NonNull TextView errorText,
+      @NonNull FrameLayout fragmentPlaceholder, @NonNull RecyclerView imageRecycler,
+      @NonNull CoordinatorLayout mainRoot, @NonNull ProgressBar progressBar,
       @NonNull RecyclerView recyclerMain, @NonNull RecyclerView sortRecycler) {
     this.rootView = rootView;
     this.bottomNavigation = bottomNavigation;
     this.collapsingToolbar = collapsingToolbar;
+    this.errorText = errorText;
     this.fragmentPlaceholder = fragmentPlaceholder;
     this.imageRecycler = imageRecycler;
     this.mainRoot = mainRoot;
+    this.progressBar = progressBar;
     this.recyclerMain = recyclerMain;
     this.sortRecycler = sortRecycler;
   }
@@ -98,6 +109,12 @@ public final class ActivityMainBinding implements ViewBinding {
         break missingId;
       }
 
+      id = R.id.error_text;
+      TextView errorText = ViewBindings.findChildViewById(rootView, id);
+      if (errorText == null) {
+        break missingId;
+      }
+
       id = R.id.fragment_placeholder;
       FrameLayout fragmentPlaceholder = ViewBindings.findChildViewById(rootView, id);
       if (fragmentPlaceholder == null) {
@@ -116,6 +133,12 @@ public final class ActivityMainBinding implements ViewBinding {
         break missingId;
       }
 
+      id = R.id.progress_bar;
+      ProgressBar progressBar = ViewBindings.findChildViewById(rootView, id);
+      if (progressBar == null) {
+        break missingId;
+      }
+
       id = R.id.recycler_main;
       RecyclerView recyclerMain = ViewBindings.findChildViewById(rootView, id);
       if (recyclerMain == null) {
@@ -129,7 +152,8 @@ public final class ActivityMainBinding implements ViewBinding {
       }
 
       return new ActivityMainBinding((LinearLayout) rootView, bottomNavigation, collapsingToolbar,
-          fragmentPlaceholder, imageRecycler, mainRoot, recyclerMain, sortRecycler);
+          errorText, fragmentPlaceholder, imageRecycler, mainRoot, progressBar, recyclerMain,
+          sortRecycler);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

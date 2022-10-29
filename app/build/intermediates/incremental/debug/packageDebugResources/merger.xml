@@ -13,7 +13,7 @@
     </string-array></file><file path="E:\Programming_projects\AndroidStudioProjects\Hammer\HammerTest\app\src\main\res\values\preloaded_fonts.xml" qualifiers=""><array name="preloaded_fonts" translatable="false">
         <item>@font/roboto_medium</item>
         <item>@font/sansita</item>
-    </array></file><file path="E:\Programming_projects\AndroidStudioProjects\Hammer\HammerTest\app\src\main\res\values\strings.xml" qualifiers=""><string name="app_name">Test</string><string name="menu_bottom">Меню</string><string name="profile">Профиль</string><string name="garbage">Корзина</string><string name="moscow">Москва</string><string name="spb">Санкт-Петербург</string></file><file path="E:\Programming_projects\AndroidStudioProjects\Hammer\HammerTest\app\src\main\res\values\style.xml" qualifiers=""><style name="BottomNavigationTheme" parent="Theme.AppCompat.Light">
+    </array></file><file path="E:\Programming_projects\AndroidStudioProjects\Hammer\HammerTest\app\src\main\res\values\strings.xml" qualifiers=""><string name="app_name">Test</string><string name="menu_bottom">Меню</string><string name="profile">Профиль</string><string name="garbage">Корзина</string><string name="moscow">Москва</string><string name="spb">Санкт-Петербург</string><string name="error">Error!</string></file><file path="E:\Programming_projects\AndroidStudioProjects\Hammer\HammerTest\app\src\main\res\values\style.xml" qualifiers=""><style name="BottomNavigationTheme" parent="Theme.AppCompat.Light">
         <item name="colorPrimary">#FD3A69</item>
         <item name="android:textColorSecondary">#263238</item>
     </style><style name="Toolbar.TitleText" parent="TextAppearance.Widget.AppCompat.Toolbar.Title">

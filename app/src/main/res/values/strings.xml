@@ -5,4 +5,5 @@
     <string name="garbage">Корзина</string>
     <string name="moscow">Москва</string>
     <string name="spb">Санкт-Петербург</string>
+    <string name="error">Error!</string>
 </resources>

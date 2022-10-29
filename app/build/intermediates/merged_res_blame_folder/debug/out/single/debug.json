@@ -1,158 +1,162 @@
 [
     {
-        "merged": "com.example.test.app-merged_res-34:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
-        "source": "com.example.test.app-pngs-29:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\Ugoln\\.gradle\\daemon\\7.4\\com.example.test.app-merged_res-34:\\drawable-xhdpi_person.png.flat",
+        "source": "C:\\Users\\Ugoln\\.gradle\\daemon\\7.4\\com.example.test.app-pngs-29:\\drawable-xhdpi\\person.png"
     },
     {
-        "merged": "com.example.test.app-merged_res-34:/mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.test.app-main-36:/mipmap-xhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\Ugoln\\.gradle\\daemon\\7.4\\com.example.test.app-merged_res-34:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Ugoln\\.gradle\\daemon\\7.4\\com.example.test.app-main-36:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "com.example.test.app-merged_res-34:/mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.test.app-main-36:/mipmap-hdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\Ugoln\\.gradle\\daemon\\7.4\\com.example.test.app-merged_res-34:\\layout_main_recycler_cell.xml.flat",
+        "source": "C:\\Users\\Ugoln\\.gradle\\daemon\\7.4\\com.example.test.app-main-36:\\layout\\main_recycler_cell.xml"
     },
     {
-        "merged": "com.example.test.app-merged_res-34:/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "com.example.test.app-main-36:/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "C:\\Users\\Ugoln\\.gradle\\daemon\\7.4\\com.example.test.app-merged_res-34:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Ugoln\\.gradle\\daemon\\7.4\\com.example.test.app-main-36:\\mipmap-hdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.test.app-merged_res-34:/xml_data_extraction_rules.xml.flat",
-        "source": "com.example.test.app-main-36:/xml/data_extraction_rules.xml"
+        "merged": "C:\\Users\\Ugoln\\.gradle\\daemon\\7.4\\com.example.test.app-merged_res-34:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Ugoln\\.gradle\\daemon\\7.4\\com.example.test.app-main-36:\\xml\\data_extraction_rules.xml"
     },
     {
-        "merged": "com.example.test.app-merged_res-34:/drawable_qr_code.xml.flat",
-        "source": "com.example.test.app-main-36:/drawable/qr_code.xml"
+        "merged": "C:\\Users\\Ugoln\\.gradle\\daemon\\7.4\\com.example.test.app-merged_res-34:\\drawable-mdpi_person.png.flat",
+        "source": "C:\\Users\\Ugoln\\.gradle\\daemon\\7.4\\com.example.test.app-pngs-29:\\drawable-mdpi\\person.png"
     },
     {
-        "merged": "com.example.test.app-merged_res-34:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.test.app-main-36:/mipmap-xxhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\Ugoln\\.gradle\\daemon\\7.4\\com.example.test.app-merged_res-34:\\drawable-ldpi_person.png.flat",
+        "source": "C:\\Users\\Ugoln\\.gradle\\daemon\\7.4\\com.example.test.app-pngs-29:\\drawable-ldpi\\person.png"
     },
     {
-        "merged": "com.example.test.app-merged_res-34:/drawable_ic_launcher_background.xml.flat",
-        "source": "com.example.test.app-main-36:/drawable/ic_launcher_background.xml"
+        "merged": "C:\\Users\\Ugoln\\.gradle\\daemon\\7.4\\com.example.test.app-merged_res-34:\\menu_bottom_menu.xml.flat",
+        "source": "C:\\Users\\Ugoln\\.gradle\\daemon\\7.4\\com.example.test.app-main-36:\\menu\\bottom_menu.xml"
     },
     {
-        "merged": "com.example.test.app-merged_res-34:/drawable_ic_baseline_local_pizza_24.xml.flat",
-        "source": "com.example.test.app-main-36:/drawable/ic_baseline_local_pizza_24.xml"
+        "merged": "C:\\Users\\Ugoln\\.gradle\\daemon\\7.4\\com.example.test.app-merged_res-34:\\drawable_toolbar_arrow.xml.flat",
+        "source": "C:\\Users\\Ugoln\\.gradle\\daemon\\7.4\\com.example.test.app-main-36:\\drawable\\toolbar_arrow.xml"
     },
     {
-        "merged": "com.example.test.app-merged_res-34:/layout_main_recycler_cell.xml.flat",
-        "source": "com.example.test.app-main-36:/layout/main_recycler_cell.xml"
+        "merged": "C:\\Users\\Ugoln\\.gradle\\daemon\\7.4\\com.example.test.app-merged_res-34:\\drawable_garbage.xml.flat",
+        "source": "C:\\Users\\Ugoln\\.gradle\\daemon\\7.4\\com.example.test.app-main-36:\\drawable\\garbage.xml"
     },
     {
-        "merged": "com.example.test.app-merged_res-34:/drawable_toolbar_arrow.xml.flat",
-        "source": "com.example.test.app-main-36:/drawable/toolbar_arrow.xml"
+        "merged": "C:\\Users\\Ugoln\\.gradle\\daemon\\7.4\\com.example.test.app-merged_res-34:\\drawable-hdpi_person.png.flat",
+        "source": "C:\\Users\\Ugoln\\.gradle\\daemon\\7.4\\com.example.test.app-pngs-29:\\drawable-hdpi\\person.png"
     },
     {
-        "merged": "com.example.test.app-merged_res-34:/font_sansita.xml.flat",
-        "source": "com.example.test.app-main-36:/font/sansita.xml"
-    },
-    {
-        "merged": "com.example.test.app-merged_res-34:/drawable-hdpi_person.png.flat",
-        "source": "com.example.test.app-pngs-29:/drawable-hdpi/person.png"
-    },
-    {
-        "merged": "com.example.test.app-merged_res-34:/mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.test.app-main-36:/mipmap-mdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\Ugoln\\.gradle\\daemon\\7.4\\com.example.test.app-merged_res-34:\\drawable_menu.xml.flat",
+        "source": "C:\\Users\\Ugoln\\.gradle\\daemon\\7.4\\com.example.test.app-main-36:\\drawable\\menu.xml"
     },
     {
         "merged": "com.example.test.app-merged_res-34:/layout_activity_main.xml.flat",
         "source": "com.example.test.app-main-36:/layout/activity_main.xml"
     },
     {
-        "merged": "com.example.test.app-merged_res-34:/xml_backup_rules.xml.flat",
-        "source": "com.example.test.app-main-36:/xml/backup_rules.xml"
+        "merged": "C:\\Users\\Ugoln\\.gradle\\daemon\\7.4\\com.example.test.app-merged_res-34:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Ugoln\\.gradle\\daemon\\7.4\\com.example.test.app-main-36:\\layout\\activity_main.xml"
     },
     {
-        "merged": "com.example.test.app-merged_res-34:/drawable_menu.xml.flat",
-        "source": "com.example.test.app-main-36:/drawable/menu.xml"
+        "merged": "C:\\Users\\Ugoln\\.gradle\\daemon\\7.4\\com.example.test.app-merged_res-34:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Ugoln\\.gradle\\daemon\\7.4\\com.example.test.app-main-36:\\mipmap-hdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.test.app-merged_res-34:/drawable-mdpi_person.png.flat",
-        "source": "com.example.test.app-pngs-29:/drawable-mdpi/person.png"
+        "merged": "C:\\Users\\Ugoln\\.gradle\\daemon\\7.4\\com.example.test.app-merged_res-34:\\menu_cities_menu.xml.flat",
+        "source": "C:\\Users\\Ugoln\\.gradle\\daemon\\7.4\\com.example.test.app-main-36:\\menu\\cities_menu.xml"
     },
     {
-        "merged": "com.example.test.app-merged_res-34:/mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "com.example.test.app-main-36:/mipmap-xxxhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\Ugoln\\.gradle\\daemon\\7.4\\com.example.test.app-merged_res-34:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Ugoln\\.gradle\\daemon\\7.4\\com.example.test.app-main-36:\\mipmap-xxxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.test.app-merged_res-34:/layout_sort_sell.xml.flat",
-        "source": "com.example.test.app-main-36:/layout/sort_sell.xml"
+        "merged": "C:\\Users\\Ugoln\\.gradle\\daemon\\7.4\\com.example.test.app-merged_res-34:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Ugoln\\.gradle\\daemon\\7.4\\com.example.test.app-main-36:\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "com.example.test.app-merged_res-34:/drawable_text_view_borders.xml.flat",
-        "source": "com.example.test.app-main-36:/drawable/text_view_borders.xml"
+        "merged": "C:\\Users\\Ugoln\\.gradle\\daemon\\7.4\\com.example.test.app-merged_res-34:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Ugoln\\.gradle\\daemon\\7.4\\com.example.test.app-main-36:\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.test.app-merged_res-34:/menu_bottom_menu.xml.flat",
-        "source": "com.example.test.app-main-36:/menu/bottom_menu.xml"
+        "merged": "C:\\Users\\Ugoln\\.gradle\\daemon\\7.4\\com.example.test.app-merged_res-34:\\drawable_ic_baseline_local_pizza_24.xml.flat",
+        "source": "C:\\Users\\Ugoln\\.gradle\\daemon\\7.4\\com.example.test.app-main-36:\\drawable\\ic_baseline_local_pizza_24.xml"
     },
     {
-        "merged": "com.example.test.app-merged_res-34:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "com.example.test.app-main-36:/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "C:\\Users\\Ugoln\\.gradle\\daemon\\7.4\\com.example.test.app-merged_res-34:\\drawable_text_view_borders.xml.flat",
+        "source": "C:\\Users\\Ugoln\\.gradle\\daemon\\7.4\\com.example.test.app-main-36:\\drawable\\text_view_borders.xml"
     },
     {
-        "merged": "com.example.test.app-merged_res-34:/color_twst.xml.flat",
-        "source": "com.example.test.app-main-36:/color/twst.xml"
+        "merged": "C:\\Users\\Ugoln\\.gradle\\daemon\\7.4\\com.example.test.app-merged_res-34:\\drawable-xxhdpi_person.png.flat",
+        "source": "C:\\Users\\Ugoln\\.gradle\\daemon\\7.4\\com.example.test.app-pngs-29:\\drawable-xxhdpi\\person.png"
     },
     {
-        "merged": "com.example.test.app-merged_res-34:/mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "com.example.test.app-main-36:/mipmap-hdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\Ugoln\\.gradle\\daemon\\7.4\\com.example.test.app-merged_res-34:\\drawable-anydpi-v24_person.xml.flat",
+        "source": "C:\\Users\\Ugoln\\.gradle\\daemon\\7.4\\com.example.test.app-pngs-29:\\drawable-anydpi-v24\\person.xml"
     },
     {
-        "merged": "com.example.test.app-merged_res-34:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.test.app-main-36:/mipmap-xxxhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\Ugoln\\.gradle\\daemon\\7.4\\com.example.test.app-merged_res-34:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Ugoln\\.gradle\\daemon\\7.4\\com.example.test.app-main-36:\\xml\\backup_rules.xml"
     },
     {
-        "merged": "com.example.test.app-merged_res-34:/drawable-anydpi-v24_person.xml.flat",
-        "source": "com.example.test.app-pngs-29:/drawable-anydpi-v24/person.xml"
+        "merged": "C:\\Users\\Ugoln\\.gradle\\daemon\\7.4\\com.example.test.app-merged_res-34:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Ugoln\\.gradle\\daemon\\7.4\\com.example.test.app-main-36:\\mipmap-mdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.test.app-merged_res-34:/drawable-xhdpi_person.png.flat",
-        "source": "com.example.test.app-pngs-29:/drawable-xhdpi/person.png"
+        "merged": "C:\\Users\\Ugoln\\.gradle\\daemon\\7.4\\com.example.test.app-merged_res-34:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Ugoln\\.gradle\\daemon\\7.4\\com.example.test.app-main-36:\\mipmap-mdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.test.app-merged_res-34:/mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "com.example.test.app-main-36:/mipmap-xhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\Ugoln\\.gradle\\daemon\\7.4\\com.example.test.app-merged_res-34:\\font_roboto_medium.xml.flat",
+        "source": "C:\\Users\\Ugoln\\.gradle\\daemon\\7.4\\com.example.test.app-main-36:\\font\\roboto_medium.xml"
     },
     {
-        "merged": "com.example.test.app-merged_res-34:/font_roboto_medium.xml.flat",
-        "source": "com.example.test.app-main-36:/font/roboto_medium.xml"
+        "merged": "C:\\Users\\Ugoln\\.gradle\\daemon\\7.4\\com.example.test.app-merged_res-34:\\layout_image_cell.xml.flat",
+        "source": "C:\\Users\\Ugoln\\.gradle\\daemon\\7.4\\com.example.test.app-main-36:\\layout\\image_cell.xml"
     },
     {
-        "merged": "com.example.test.app-merged_res-34:/menu_cities_menu.xml.flat",
-        "source": "com.example.test.app-main-36:/menu/cities_menu.xml"
+        "merged": "C:\\Users\\Ugoln\\.gradle\\daemon\\7.4\\com.example.test.app-merged_res-34:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Ugoln\\.gradle\\daemon\\7.4\\com.example.test.app-main-36:\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "com.example.test.app-merged_res-34:/mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "com.example.test.app-main-36:/mipmap-mdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\Ugoln\\.gradle\\daemon\\7.4\\com.example.test.app-merged_res-34:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Ugoln\\.gradle\\daemon\\7.4\\com.example.test.app-main-36:\\mipmap-xxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.test.app-merged_res-34:/drawable-ldpi_person.png.flat",
-        "source": "com.example.test.app-pngs-29:/drawable-ldpi/person.png"
+        "merged": "C:\\Users\\Ugoln\\.gradle\\daemon\\7.4\\com.example.test.app-merged_res-34:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Ugoln\\.gradle\\daemon\\7.4\\com.example.test.app-pngs-29:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "com.example.test.app-merged_res-34:/drawable-xxxhdpi_person.png.flat",
-        "source": "com.example.test.app-pngs-29:/drawable-xxxhdpi/person.png"
+        "merged": "C:\\Users\\Ugoln\\.gradle\\daemon\\7.4\\com.example.test.app-merged_res-34:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Ugoln\\.gradle\\daemon\\7.4\\com.example.test.app-main-36:\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.test.app-merged_res-34:/color_bottom_nav_color_item.xml.flat",
-        "source": "com.example.test.app-main-36:/color/bottom_nav_color_item.xml"
+        "merged": "C:\\Users\\Ugoln\\.gradle\\daemon\\7.4\\com.example.test.app-merged_res-34:\\font_sansita.xml.flat",
+        "source": "C:\\Users\\Ugoln\\.gradle\\daemon\\7.4\\com.example.test.app-main-36:\\font\\sansita.xml"
     },
     {
-        "merged": "com.example.test.app-merged_res-34:/layout_image_cell.xml.flat",
-        "source": "com.example.test.app-main-36:/layout/image_cell.xml"
+        "merged": "C:\\Users\\Ugoln\\.gradle\\daemon\\7.4\\com.example.test.app-merged_res-34:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Ugoln\\.gradle\\daemon\\7.4\\com.example.test.app-main-36:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.test.app-merged_res-34:/mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "com.example.test.app-main-36:/mipmap-xxhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\Ugoln\\.gradle\\daemon\\7.4\\com.example.test.app-merged_res-34:\\color_bottom_nav_color_item.xml.flat",
+        "source": "C:\\Users\\Ugoln\\.gradle\\daemon\\7.4\\com.example.test.app-main-36:\\color\\bottom_nav_color_item.xml"
     },
     {
-        "merged": "com.example.test.app-merged_res-34:/drawable-xxhdpi_person.png.flat",
-        "source": "com.example.test.app-pngs-29:/drawable-xxhdpi/person.png"
+        "merged": "C:\\Users\\Ugoln\\.gradle\\daemon\\7.4\\com.example.test.app-merged_res-34:\\drawable_qr_code.xml.flat",
+        "source": "C:\\Users\\Ugoln\\.gradle\\daemon\\7.4\\com.example.test.app-main-36:\\drawable\\qr_code.xml"
     },
     {
-        "merged": "com.example.test.app-merged_res-34:/drawable_garbage.xml.flat",
-        "source": "com.example.test.app-main-36:/drawable/garbage.xml"
+        "merged": "C:\\Users\\Ugoln\\.gradle\\daemon\\7.4\\com.example.test.app-merged_res-34:\\drawable-xxxhdpi_person.png.flat",
+        "source": "C:\\Users\\Ugoln\\.gradle\\daemon\\7.4\\com.example.test.app-pngs-29:\\drawable-xxxhdpi\\person.png"
+    },
+    {
+        "merged": "C:\\Users\\Ugoln\\.gradle\\daemon\\7.4\\com.example.test.app-merged_res-34:\\layout_sort_sell.xml.flat",
+        "source": "C:\\Users\\Ugoln\\.gradle\\daemon\\7.4\\com.example.test.app-main-36:\\layout\\sort_sell.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ugoln\\.gradle\\daemon\\7.4\\com.example.test.app-merged_res-34:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Ugoln\\.gradle\\daemon\\7.4\\com.example.test.app-main-36:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Ugoln\\.gradle\\daemon\\7.4\\com.example.test.app-merged_res-34:\\color_twst.xml.flat",
+        "source": "C:\\Users\\Ugoln\\.gradle\\daemon\\7.4\\com.example.test.app-main-36:\\color\\twst.xml"
     }
 ]

@@ -18,99 +18,101 @@
 12-->E:\Programming_projects\AndroidStudioProjects\Hammer\HammerTest\app\src\main\AndroidManifest.xml:6:22-76
 13
 14    <permission
-14-->[androidx.core:core:1.9.0] C:\Users\Ugoln\.gradle\caches\transforms-3\9baae2a0a064870b9506522ab355f7bf\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+14-->[androidx.core:core:1.9.0] C:\Users\Ugoln\.gradle\caches\transforms-3\862a48ada38c28461deadd92c59b2d5c\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
 15        android:name="com.example.test.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
-15-->[androidx.core:core:1.9.0] C:\Users\Ugoln\.gradle\caches\transforms-3\9baae2a0a064870b9506522ab355f7bf\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+15-->[androidx.core:core:1.9.0] C:\Users\Ugoln\.gradle\caches\transforms-3\862a48ada38c28461deadd92c59b2d5c\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
 16        android:protectionLevel="signature" />
-16-->[androidx.core:core:1.9.0] C:\Users\Ugoln\.gradle\caches\transforms-3\9baae2a0a064870b9506522ab355f7bf\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+16-->[androidx.core:core:1.9.0] C:\Users\Ugoln\.gradle\caches\transforms-3\862a48ada38c28461deadd92c59b2d5c\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
 17
 18    <uses-permission android:name="com.example.test.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
-18-->[androidx.core:core:1.9.0] C:\Users\Ugoln\.gradle\caches\transforms-3\9baae2a0a064870b9506522ab355f7bf\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
-18-->[androidx.core:core:1.9.0] C:\Users\Ugoln\.gradle\caches\transforms-3\9baae2a0a064870b9506522ab355f7bf\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+18-->[androidx.core:core:1.9.0] C:\Users\Ugoln\.gradle\caches\transforms-3\862a48ada38c28461deadd92c59b2d5c\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+18-->[androidx.core:core:1.9.0] C:\Users\Ugoln\.gradle\caches\transforms-3\862a48ada38c28461deadd92c59b2d5c\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
 19
 20    <application
-20-->E:\Programming_projects\AndroidStudioProjects\Hammer\HammerTest\app\src\main\AndroidManifest.xml:8:5-34:19
-21        android:allowBackup="true"
-21-->E:\Programming_projects\AndroidStudioProjects\Hammer\HammerTest\app\src\main\AndroidManifest.xml:9:9-35
-22        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-22-->[androidx.core:core:1.9.0] C:\Users\Ugoln\.gradle\caches\transforms-3\9baae2a0a064870b9506522ab355f7bf\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
-23        android:dataExtractionRules="@xml/data_extraction_rules"
-23-->E:\Programming_projects\AndroidStudioProjects\Hammer\HammerTest\app\src\main\AndroidManifest.xml:10:9-65
-24        android:debuggable="true"
-25        android:fullBackupContent="@xml/backup_rules"
-25-->E:\Programming_projects\AndroidStudioProjects\Hammer\HammerTest\app\src\main\AndroidManifest.xml:11:9-54
-26        android:icon="@mipmap/ic_launcher"
-26-->E:\Programming_projects\AndroidStudioProjects\Hammer\HammerTest\app\src\main\AndroidManifest.xml:12:9-43
-27        android:label="@string/app_name"
-27-->E:\Programming_projects\AndroidStudioProjects\Hammer\HammerTest\app\src\main\AndroidManifest.xml:13:9-41
-28        android:roundIcon="@mipmap/ic_launcher_round"
-28-->E:\Programming_projects\AndroidStudioProjects\Hammer\HammerTest\app\src\main\AndroidManifest.xml:14:9-54
-29        android:supportsRtl="true"
-29-->E:\Programming_projects\AndroidStudioProjects\Hammer\HammerTest\app\src\main\AndroidManifest.xml:15:9-35
-30        android:testOnly="true"
-31        android:theme="@style/Theme.Test" >
-31-->E:\Programming_projects\AndroidStudioProjects\Hammer\HammerTest\app\src\main\AndroidManifest.xml:16:9-42
-32        <activity
-32-->E:\Programming_projects\AndroidStudioProjects\Hammer\HammerTest\app\src\main\AndroidManifest.xml:18:9-30:20
-33            android:name="com.example.test.presentation.MainActivity"
-33-->E:\Programming_projects\AndroidStudioProjects\Hammer\HammerTest\app\src\main\AndroidManifest.xml:19:13-54
-34            android:exported="true" >
-34-->E:\Programming_projects\AndroidStudioProjects\Hammer\HammerTest\app\src\main\AndroidManifest.xml:20:13-36
-35            <intent-filter>
-35-->E:\Programming_projects\AndroidStudioProjects\Hammer\HammerTest\app\src\main\AndroidManifest.xml:21:13-25:29
-36                <action android:name="android.intent.action.MAIN" />
-36-->E:\Programming_projects\AndroidStudioProjects\Hammer\HammerTest\app\src\main\AndroidManifest.xml:22:17-69
-36-->E:\Programming_projects\AndroidStudioProjects\Hammer\HammerTest\app\src\main\AndroidManifest.xml:22:25-66
-37
-38                <category android:name="android.intent.category.LAUNCHER" />
-38-->E:\Programming_projects\AndroidStudioProjects\Hammer\HammerTest\app\src\main\AndroidManifest.xml:24:17-77
-38-->E:\Programming_projects\AndroidStudioProjects\Hammer\HammerTest\app\src\main\AndroidManifest.xml:24:27-74
-39            </intent-filter>
-40
-41            <meta-data
-41-->E:\Programming_projects\AndroidStudioProjects\Hammer\HammerTest\app\src\main\AndroidManifest.xml:27:13-29:36
-42                android:name="android.app.lib_name"
-42-->E:\Programming_projects\AndroidStudioProjects\Hammer\HammerTest\app\src\main\AndroidManifest.xml:28:17-52
-43                android:value="" />
-43-->E:\Programming_projects\AndroidStudioProjects\Hammer\HammerTest\app\src\main\AndroidManifest.xml:29:17-33
-44        </activity>
-45
-46        <meta-data
-46-->E:\Programming_projects\AndroidStudioProjects\Hammer\HammerTest\app\src\main\AndroidManifest.xml:31:9-33:57
-47            android:name="preloaded_fonts"
-47-->E:\Programming_projects\AndroidStudioProjects\Hammer\HammerTest\app\src\main\AndroidManifest.xml:32:13-43
-48            android:resource="@array/preloaded_fonts" />
-48-->E:\Programming_projects\AndroidStudioProjects\Hammer\HammerTest\app\src\main\AndroidManifest.xml:33:13-54
-49
-50        <provider
-50-->[com.squareup.picasso:picasso:2.71828] C:\Users\Ugoln\.gradle\caches\transforms-3\2a905282e70e7d9a1aaa5960bb3cba3f\transformed\picasso-2.71828\AndroidManifest.xml:8:9-11:40
-51            android:name="com.squareup.picasso.PicassoProvider"
-51-->[com.squareup.picasso:picasso:2.71828] C:\Users\Ugoln\.gradle\caches\transforms-3\2a905282e70e7d9a1aaa5960bb3cba3f\transformed\picasso-2.71828\AndroidManifest.xml:9:13-64
-52            android:authorities="com.example.test.com.squareup.picasso"
-52-->[com.squareup.picasso:picasso:2.71828] C:\Users\Ugoln\.gradle\caches\transforms-3\2a905282e70e7d9a1aaa5960bb3cba3f\transformed\picasso-2.71828\AndroidManifest.xml:10:13-72
-53            android:exported="false" />
-53-->[com.squareup.picasso:picasso:2.71828] C:\Users\Ugoln\.gradle\caches\transforms-3\2a905282e70e7d9a1aaa5960bb3cba3f\transformed\picasso-2.71828\AndroidManifest.xml:11:13-37
-54        <provider
-54-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Ugoln\.gradle\caches\transforms-3\848773e611bbde5d3ec0ec3e63d01c98\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
-55            android:name="androidx.startup.InitializationProvider"
-55-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Ugoln\.gradle\caches\transforms-3\848773e611bbde5d3ec0ec3e63d01c98\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
-56            android:authorities="com.example.test.androidx-startup"
-56-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Ugoln\.gradle\caches\transforms-3\848773e611bbde5d3ec0ec3e63d01c98\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
-57            android:exported="false" >
-57-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Ugoln\.gradle\caches\transforms-3\848773e611bbde5d3ec0ec3e63d01c98\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
-58            <meta-data
-58-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Ugoln\.gradle\caches\transforms-3\848773e611bbde5d3ec0ec3e63d01c98\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
-59                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-59-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Ugoln\.gradle\caches\transforms-3\848773e611bbde5d3ec0ec3e63d01c98\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
-60                android:value="androidx.startup" />
-60-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Ugoln\.gradle\caches\transforms-3\848773e611bbde5d3ec0ec3e63d01c98\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
-61            <meta-data
-61-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Ugoln\.gradle\caches\transforms-3\a4f0fb44e9b56370f8c2ed23c9d5d030\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
-62                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-62-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Ugoln\.gradle\caches\transforms-3\a4f0fb44e9b56370f8c2ed23c9d5d030\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
-63                android:value="androidx.startup" />
-63-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Ugoln\.gradle\caches\transforms-3\a4f0fb44e9b56370f8c2ed23c9d5d030\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
-64        </provider>
-65    </application>
-66
-67</manifest>
+20-->E:\Programming_projects\AndroidStudioProjects\Hammer\HammerTest\app\src\main\AndroidManifest.xml:8:5-35:19
+21        android:name="com.example.test.app.InternetApplication"
+21-->E:\Programming_projects\AndroidStudioProjects\Hammer\HammerTest\app\src\main\AndroidManifest.xml:9:9-48
+22        android:allowBackup="true"
+22-->E:\Programming_projects\AndroidStudioProjects\Hammer\HammerTest\app\src\main\AndroidManifest.xml:10:9-35
+23        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+23-->[androidx.core:core:1.9.0] C:\Users\Ugoln\.gradle\caches\transforms-3\862a48ada38c28461deadd92c59b2d5c\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+24        android:dataExtractionRules="@xml/data_extraction_rules"
+24-->E:\Programming_projects\AndroidStudioProjects\Hammer\HammerTest\app\src\main\AndroidManifest.xml:11:9-65
+25        android:debuggable="true"
+26        android:fullBackupContent="@xml/backup_rules"
+26-->E:\Programming_projects\AndroidStudioProjects\Hammer\HammerTest\app\src\main\AndroidManifest.xml:12:9-54
+27        android:icon="@mipmap/ic_launcher"
+27-->E:\Programming_projects\AndroidStudioProjects\Hammer\HammerTest\app\src\main\AndroidManifest.xml:13:9-43
+28        android:label="@string/app_name"
+28-->E:\Programming_projects\AndroidStudioProjects\Hammer\HammerTest\app\src\main\AndroidManifest.xml:14:9-41
+29        android:roundIcon="@mipmap/ic_launcher_round"
+29-->E:\Programming_projects\AndroidStudioProjects\Hammer\HammerTest\app\src\main\AndroidManifest.xml:15:9-54
+30        android:supportsRtl="true"
+30-->E:\Programming_projects\AndroidStudioProjects\Hammer\HammerTest\app\src\main\AndroidManifest.xml:16:9-35
+31        android:testOnly="true"
+32        android:theme="@style/Theme.Test" >
+32-->E:\Programming_projects\AndroidStudioProjects\Hammer\HammerTest\app\src\main\AndroidManifest.xml:17:9-42
+33        <activity
+33-->E:\Programming_projects\AndroidStudioProjects\Hammer\HammerTest\app\src\main\AndroidManifest.xml:19:9-31:20
+34            android:name="com.example.test.presentation.MainActivity"
+34-->E:\Programming_projects\AndroidStudioProjects\Hammer\HammerTest\app\src\main\AndroidManifest.xml:20:13-54
+35            android:exported="true" >
+35-->E:\Programming_projects\AndroidStudioProjects\Hammer\HammerTest\app\src\main\AndroidManifest.xml:21:13-36
+36            <intent-filter>
+36-->E:\Programming_projects\AndroidStudioProjects\Hammer\HammerTest\app\src\main\AndroidManifest.xml:22:13-26:29
+37                <action android:name="android.intent.action.MAIN" />
+37-->E:\Programming_projects\AndroidStudioProjects\Hammer\HammerTest\app\src\main\AndroidManifest.xml:23:17-69
+37-->E:\Programming_projects\AndroidStudioProjects\Hammer\HammerTest\app\src\main\AndroidManifest.xml:23:25-66
+38
+39                <category android:name="android.intent.category.LAUNCHER" />
+39-->E:\Programming_projects\AndroidStudioProjects\Hammer\HammerTest\app\src\main\AndroidManifest.xml:25:17-77
+39-->E:\Programming_projects\AndroidStudioProjects\Hammer\HammerTest\app\src\main\AndroidManifest.xml:25:27-74
+40            </intent-filter>
+41
+42            <meta-data
+42-->E:\Programming_projects\AndroidStudioProjects\Hammer\HammerTest\app\src\main\AndroidManifest.xml:28:13-30:36
+43                android:name="android.app.lib_name"
+43-->E:\Programming_projects\AndroidStudioProjects\Hammer\HammerTest\app\src\main\AndroidManifest.xml:29:17-52
+44                android:value="" />
+44-->E:\Programming_projects\AndroidStudioProjects\Hammer\HammerTest\app\src\main\AndroidManifest.xml:30:17-33
+45        </activity>
+46
+47        <meta-data
+47-->E:\Programming_projects\AndroidStudioProjects\Hammer\HammerTest\app\src\main\AndroidManifest.xml:32:9-34:57
+48            android:name="preloaded_fonts"
+48-->E:\Programming_projects\AndroidStudioProjects\Hammer\HammerTest\app\src\main\AndroidManifest.xml:33:13-43
+49            android:resource="@array/preloaded_fonts" />
+49-->E:\Programming_projects\AndroidStudioProjects\Hammer\HammerTest\app\src\main\AndroidManifest.xml:34:13-54
+50
+51        <provider
+51-->[com.squareup.picasso:picasso:2.71828] C:\Users\Ugoln\.gradle\caches\transforms-3\3a13c93c7e0dcb7f5e5f1189b2044248\transformed\picasso-2.71828\AndroidManifest.xml:8:9-11:40
+52            android:name="com.squareup.picasso.PicassoProvider"
+52-->[com.squareup.picasso:picasso:2.71828] C:\Users\Ugoln\.gradle\caches\transforms-3\3a13c93c7e0dcb7f5e5f1189b2044248\transformed\picasso-2.71828\AndroidManifest.xml:9:13-64
+53            android:authorities="com.example.test.com.squareup.picasso"
+53-->[com.squareup.picasso:picasso:2.71828] C:\Users\Ugoln\.gradle\caches\transforms-3\3a13c93c7e0dcb7f5e5f1189b2044248\transformed\picasso-2.71828\AndroidManifest.xml:10:13-72
+54            android:exported="false" />
+54-->[com.squareup.picasso:picasso:2.71828] C:\Users\Ugoln\.gradle\caches\transforms-3\3a13c93c7e0dcb7f5e5f1189b2044248\transformed\picasso-2.71828\AndroidManifest.xml:11:13-37
+55        <provider
+55-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Ugoln\.gradle\caches\transforms-3\b1c61a6361eb3f20cddda173d67f4de2\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+56            android:name="androidx.startup.InitializationProvider"
+56-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Ugoln\.gradle\caches\transforms-3\b1c61a6361eb3f20cddda173d67f4de2\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+57            android:authorities="com.example.test.androidx-startup"
+57-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Ugoln\.gradle\caches\transforms-3\b1c61a6361eb3f20cddda173d67f4de2\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+58            android:exported="false" >
+58-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Ugoln\.gradle\caches\transforms-3\b1c61a6361eb3f20cddda173d67f4de2\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+59            <meta-data
+59-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Ugoln\.gradle\caches\transforms-3\b1c61a6361eb3f20cddda173d67f4de2\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+60                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+60-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Ugoln\.gradle\caches\transforms-3\b1c61a6361eb3f20cddda173d67f4de2\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+61                android:value="androidx.startup" />
+61-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Ugoln\.gradle\caches\transforms-3\b1c61a6361eb3f20cddda173d67f4de2\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+62            <meta-data
+62-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Ugoln\.gradle\caches\transforms-3\025ed7849c6f43c10d9a6c1cd4d240b1\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+63                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+63-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Ugoln\.gradle\caches\transforms-3\025ed7849c6f43c10d9a6c1cd4d240b1\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+64                android:value="androidx.startup" />
+64-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Ugoln\.gradle\caches\transforms-3\025ed7849c6f43c10d9a6c1cd4d240b1\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+65        </provider>
+66    </application>
+67
+68</manifest>

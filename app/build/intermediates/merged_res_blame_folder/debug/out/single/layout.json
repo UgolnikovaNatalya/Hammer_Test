@@ -1,15 +1,19 @@
 [
     {
-        "merged": "com.example.test.app-mergeDebugResources-33:/layout/sort_sell.xml",
-        "source": "com.example.test.app-main-36:/layout/sort_sell.xml"
+        "merged": "C:\\Users\\Ugoln\\.gradle\\daemon\\7.4\\com.example.test.app-mergeDebugResources-33:\\layout\\image_cell.xml",
+        "source": "C:\\Users\\Ugoln\\.gradle\\daemon\\7.4\\com.example.test.app-main-36:\\layout\\image_cell.xml"
     },
     {
-        "merged": "com.example.test.app-mergeDebugResources-33:/layout/main_recycler_cell.xml",
-        "source": "com.example.test.app-main-36:/layout/main_recycler_cell.xml"
+        "merged": "C:\\Users\\Ugoln\\.gradle\\daemon\\7.4\\com.example.test.app-mergeDebugResources-33:\\layout\\main_recycler_cell.xml",
+        "source": "C:\\Users\\Ugoln\\.gradle\\daemon\\7.4\\com.example.test.app-main-36:\\layout\\main_recycler_cell.xml"
     },
     {
-        "merged": "com.example.test.app-mergeDebugResources-33:/layout/image_cell.xml",
-        "source": "com.example.test.app-main-36:/layout/image_cell.xml"
+        "merged": "C:\\Users\\Ugoln\\.gradle\\daemon\\7.4\\com.example.test.app-mergeDebugResources-33:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Ugoln\\.gradle\\daemon\\7.4\\com.example.test.app-main-36:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ugoln\\.gradle\\daemon\\7.4\\com.example.test.app-mergeDebugResources-33:\\layout\\sort_sell.xml",
+        "source": "C:\\Users\\Ugoln\\.gradle\\daemon\\7.4\\com.example.test.app-main-36:\\layout\\sort_sell.xml"
     },
     {
         "merged": "com.example.test.app-mergeDebugResources-33:/layout/activity_main.xml",

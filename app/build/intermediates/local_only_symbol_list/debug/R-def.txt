@@ -36,6 +36,7 @@ id divider
 id drink_instruction
 id drink_name
 id drink_state
+id error_text
 id fragment_placeholder
 id garbage
 id image
@@ -44,6 +45,7 @@ id main_root
 id menu
 id moscow
 id person
+id progress_bar
 id recycler_main
 id sort_name
 id sort_recycler
@@ -57,6 +59,7 @@ menu cities_menu
 mipmap ic_launcher
 mipmap ic_launcher_round
 string app_name
+string error
 string garbage
 string menu_bottom
 string moscow
